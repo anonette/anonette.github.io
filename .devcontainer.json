@@ -1,0 +1,18 @@
+{
+    "customizations": {
+        "codespaces": {
+            "repositories": {
+                "anonette/denisaBot": {
+                    "permissions": {
+                        "issues": "write-all"
+                    }
+                },
+                "anonette/SFIS": {
+                    "permissions": {
+                        "issues": "write-all"
+                    }
+                }
+            }
+        }
+    }
+}
