@@ -1,3 +1,6 @@
 [submodule "SFIS"]
 	path = SFIS
 	url = https://github.com/anonette/SFIS.git
+[submodule "denisaBot"]
+	path = denisaBot
+	url = https://github.com/anonette/denisaBot.git
