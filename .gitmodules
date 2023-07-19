@@ -1,0 +1,3 @@
+[submodule "SFIS"]
+	path = SFIS
+	url = https://github.com/anonette/SFIS.git
